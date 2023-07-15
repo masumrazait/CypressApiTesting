@@ -1,0 +1,14 @@
+{
+  "name": "cypress_api_testing",
+  "version": "1.0.0",
+  "description": "The API Testing project focuses on validating the functionality, reliability, and performance of the API endpoints in an e-commerce application. It aims to ensure that the API behaves as expected, returns accurate data, handles errors appropriately, performs well under different loads, and adheres to security standards. The project utilizes Cypress as the testing framework, JavaScript for test scripting, and tools like Postman/Newman for exploratory testing and debugging. It emphasizes functional testing, data validation, error handling, performance testing, security testing, and integration testing. The project aims to deliver a robust and high-quality API that supports the seamless functioning of the e-commerce application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masum Raza",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.1"
+  }
+}
